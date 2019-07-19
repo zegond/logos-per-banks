@@ -7,7 +7,7 @@ This project is available under CC-BY-4.0 License. In short, It means you can us
 ## Formats
 There are 4 formats in this file, and also a ready-to-use folder of SVGs. Head to each section for instructions.
 
-- Sketch
+- [Sketch](https://github.com/zegond/logos-iran-banks/blob/master/README.md#sketch)
 - Adobe XD
 - Figma
 - Adobe Illustrator
@@ -62,11 +62,11 @@ CC-BY-4.0
 ## فرمت‌ها
 در این فایل ۴ فرمت موجود وجود دارد و همچنین اس‌وی‌جی‌های آماده هم در فولدر جداگانه‌ای موجود است. برای مطالعه روش کار هرکدام روی نامشان بزنید
 
-Sketch
-Adobe XD
-Figma
-Adobe Illustrator
-SVG Exports
+- [Sketch](https://github.com/zegond/logos-iran-banks#%D8%A7%D8%B3%DA%A9%DA%86)
+- Adobe XD
+- Figma
+- Adobe Illustrator
+- SVG Exports
 
 ## روش استفاده
 ### اسکچ
