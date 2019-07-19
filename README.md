@@ -23,21 +23,25 @@ There are 4 formats in this file, and also a ready-to-use folder of SVGs. Head t
 ## Instructions
 ### Sketch
 **Adding Library Using Sketch Cloud**
+
 You can use [this URL](https://sketch.cloud/s/jPwL7) to add this document as a library in your sketchapp and get updates directly through cloud. Life made easy :)
 
 [![2019-07-19_15-01-17.gif](https://s3.gifyu.com/images/2019-07-19_15-01-17.gif)](https://gifyu.com/image/EFVX)
 
 **Using Symbols**
+
 After adding library, you can easily select and use symbols
 
 [![2019-07-19_15-08-18.gif](https://s3.gifyu.com/images/2019-07-19_15-08-18.gif)](https://gifyu.com/image/EFZO)
 
 **Changing Styles of Monocolor Logos**
+
 Monocolors have styles set in their shape, which means you can easily switch the styles with the ones you have in your document or your other libraries.
 
 [![2019-07-19_15-07-04.gif](https://s3.gifyu.com/images/2019-07-19_15-07-04.gif)](https://gifyu.com/image/EFZG)
 
 **Updating Library Using Sketch Cloud**
+
 Whenever a version is uploaded to sketch cloud, you will be notified to update your library. After updating, you can update the symbols in your documents.
 
 [![2019-07-19_15-20-46.gif](https://s3.gifyu.com/images/2019-07-19_15-20-46.gif)](https://gifyu.com/image/EFaT)
@@ -73,21 +77,25 @@ CC-BY-4.0
 ## روش استفاده
 ### اسکچ
 **اضافه کردن لایبرری بوسیله اسکچ کلاد**
+
 اگر اکانت اسکچ کلاد و لایسنس فعال دارید، با استفاده از [این لینک](https://sketch.cloud/s/jPwL7) می‌توانید نسخه اسکچ را به برنامه خود وصل کنید و مستقیم از طریق کلاد از آن استفاده کنید و آپدیت‌ها را نیز به طور اتوماتیک دریافت کنید
 
 [![2019-07-19_15-01-17.gif](https://s3.gifyu.com/images/2019-07-19_15-01-17.gif)](https://gifyu.com/image/EFVX)
 
 **استفاده از سیمبل‌ها**
+
 بعد از اضافه کردن لایبرری، خیلی ساده از طریق منوی انتخاب سیمبل می‌توانید لوگوی مورد نظرتان را انتخاب و استفاده کنید
 
 [![2019-07-19_15-08-18.gif](https://s3.gifyu.com/images/2019-07-19_15-08-18.gif)](https://gifyu.com/image/EFZO)
 
 **تغییر استایل لوگوهای تک‌رنگ**
+
 در لوگوهای تک رنگ استایل فعال شده. بنابراین به راحتی می‌توانید استایل رنگی آن‌ها را با استایل‌های موجود در فایل خود و یا لایبرری‌های دیگر عوض کنید
 
 [![2019-07-19_15-07-04.gif](https://s3.gifyu.com/images/2019-07-19_15-07-04.gif)](https://gifyu.com/image/EFZG)
 
 **به روزرسانی لایبرری با استفاده از اسکج کلاد**
+
 هر زمانی که نسخه جدیدی به اسکچ کلاد اضافه شود، شما از طریق اپلیکیشن خبردار می‌شوید و پس از آپدیت می‌توانید مواردی که تغییر کرده را هم در فایل‌های خود به روزرسانی کنید 
 
 [![2019-07-19_15-20-46.gif](https://s3.gifyu.com/images/2019-07-19_15-20-46.gif)](https://gifyu.com/image/EFaT)
