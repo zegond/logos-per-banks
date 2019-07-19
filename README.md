@@ -17,7 +17,7 @@ There are 4 formats in this file, and also a ready-to-use folder of SVGs. Head t
 - I put a considerable amount of time on creating a flawless and updated files. I had to update many of the logos in a short time period because the banks keep changing their logos and I'm obsessed with being update, and will review and update my files once in a while. If you see a change, or got a feedback, or got a bank or gateway and want me to add your logo to my file, awesome. Contact me :)
 - Every logo you see here has been manually traced, nodes reduced and layers managed. I managed to get a few logos using the formal sources like their websites, or bank-related companies, but many others were lacking quality and had horrible structures in their vectors which was a no-no for me.
 - There are premium logos sold in other websites which all of them lack quality and are mostly automatic traces. So It's obvious to say that I have not used them, and if they were good, I wouldn't start this project in the first place right?
-- If you end up using this file, and liking it, spreading the world by tweet or story will help others to be aware of this project. use this hashtag: **#logos_project***
+- If you end up using this file, and liking it, spreading the world by tweet or story will help others to be aware of this project. use this hashtag: **#logos_project**
 - Hate github and want to use another source to get your files? Even tho github is the main source of my files, I'll submit and update them in the following websites as well: [Uplabs](https://uplabs.com/zegond), [Dribbble](https://dribbble.com/zegond), [Sketchappresources](https://sketchappsources.com/contributor/zegond). No need to tell you that Like and comment makes me so happy :)
 
 ## Instructions
@@ -56,7 +56,7 @@ CC-BY-4.0
 ## درباره این پروژه
 - زمان خیلی زیادی صرف کردم که لوگوهای این فایل بی‌نقص و به روز باشند. در همین مدت سه هفته مجبور شدم چندین لوگو را به روز کنم چون بانک‌ها لوگو و رنگ برند خود را تغییر می‌دهند و من وسواس شدیدی روی به روز بودن این فایل دارم و خواهم داشت. بنابراین هر چند وقت یک‌بار این لایبرری را به روز خواهم کرد. اگر تغییری دیدید، فیدبکی دارید و یا صاحب درگاه پرداختی هستید که دوست دارید به این فایل اضافه شود، با من ارتباط بگیرید
 - هر لوگویی که در این فایل میبینید به صورت دستی توسط خودم بازسازی شده و لایه‌ها و نودهایش را مدیریت کرده‌ام. سعی کردم از راه‌هایی به لوگوهای اصلی دست پیدا کنم اما به جز چندین مورد، موفق نبودم و یا فایلی که دریافت کردم کیفیت و ساختار وکتور خوبی نداشت که ترجیح دادم از آن‌ها استفاده نکنم
-- تمام لوگوهای فروشی وبسایت‌های دیزاین، در یک کلام بی‌کیفیت هستند و اکثرا به صورت اتوماتیک تریس شده‌اند. بنابراین نیازی به گفتن نیست که از این فایل‌ها استفاده نکردم، که اگر خوب بودند اونقدر به ستوه نمی‌اومدم که چنین پروژه‌ای رو استارت بزنم
+- تمام لوگوهای فروشی وبسایت‌های دیزاین، در یک کلام بی‌کیفیت هستند و اکثرا به صورت اتوماتیک تریس شده‌اند. بنابراین نیازی به گفتن نیست که از این فایل‌ها استفاده نکردم، که اگر خوب بودند اونقدر به ستوه نمی‌اومدم که چنین پروژه‌ای را استارت بزنم
 - اگر این فایل به کارتان آمد و از آن‌ها استفاده کردید، با توییت و استوری بقیه را هم از وجود چنین پروژه‌ای باخبر کنید. برای اشتراک از این هشتگ استفاده کنید
 **#logos_project**
 - اگر فاز گیت‌هاب ندارید و ترجیح می‌دهید این پروژه را از وبسایت‌های خوشگل‌تری دریافت کنید، می‌توانید به [آپ‌لبز](https://uplabs.com/zegond)، [دریبل](https://dribbble.com/zegond) و [اسکچ‌ریسورسز](https://sketchappsources.com/contributor/zegond) رجوع کنید و با لایک و کامنت مستفیضم کنید
