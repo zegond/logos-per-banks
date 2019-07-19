@@ -9,7 +9,7 @@ There are 4 formats in this file, and also a ready-to-use folder of SVGs. Head t
 
 - [Sketch](https://github.com/zegond/logos-iran-banks/blob/master/README.md#sketch)
 - Adobe XD
-- Figma
+- [Figma](https://github.com/zegond/logos-iran-banks/blob/master/README.md#figma)
 - Adobe Illustrator
 - SVG Exports
 
@@ -45,6 +45,22 @@ Monocolors have styles set in their shape, which means you can easily switch the
 Whenever a version is uploaded to sketch cloud, you will be notified to update your library. After updating, you can update the symbols in your documents.
 
 [![2019-07-19_15-20-46.gif](https://s3.gifyu.com/images/2019-07-19_15-20-46.gif)](https://gifyu.com/image/EFaT)
+
+
+### Figma
+**Opening The File**
+
+You can open The .fig file using figma.com on web, or download its application to use on desktop. You can also view the file using [this URL](https://www.figma.com/file/siz6HblbLsZTnBbF98lczO/LogoS-Iran-Banks?node-id=0%3A1).
+
+**Adding a file as Library**
+
+Figma uses team projects in order to manage libraries, so you can add the file as a library using the menu on the top left under "Libraries". Having a public link is a paid feature, so I'm afraid I can't provide unlimited updates for you on Figma itself, you have to update your files manualy.
+
+[![2019-07-19_18-30-18-4.jpg](https://s3.gifyu.com/images/2019-07-19_18-30-18-4.jpg)](https://gifyu.com/image/EUze)
+
+
+- - -
+- - -
 
 # لوگوهای بانک و درگاه‌های پرداخت ایرانی
 پروژه لوگو یک پروژه درباره لوگوهای وکتور باکیفیت و مرتب شده به صورت لایبرری است. این ریپوزیتوری حاوی لوگوی بانک‌ها و درگاه‌های پرداخت ایرانی می‌باشد.
@@ -99,3 +115,17 @@ CC-BY-4.0
 هر زمانی که نسخه جدیدی به اسکچ کلاد اضافه شود، شما از طریق اپلیکیشن خبردار می‌شوید و پس از آپدیت می‌توانید مواردی که تغییر کرده را هم در فایل‌های خود به روزرسانی کنید 
 
 [![2019-07-19_15-20-46.gif](https://s3.gifyu.com/images/2019-07-19_15-20-46.gif)](https://gifyu.com/image/EFaT)
+
+### فیگما
+**باز کردن فایل فیگما**
+
+برای باز کردن فایل فیگما از وبسایت خود فیگما استفاده کنید و یا اپلیکیشن آن را نصب کنید
+برای مشاهده پروژه می‌توانید از [این لینک](https://www.figma.com/file/siz6HblbLsZTnBbF98lczO/LogoS-Iran-Banks?node-id=0%3A1) استفاده کنید
+
+**اضافه کردن فایل به عنوان لایبرری**
+
+فیگما لایبرری پابلیک را با امکانات پولی مدیریت می‌کند. شما می‌توانید برای استفاده شخصی خود تیم بسازید و پس از اضافه کردن پروژه، لایبرری را به آن اضافه کرده و استفاده کنید
+
+[![2019-07-19_18-30-18-4.jpg](https://s3.gifyu.com/images/2019-07-19_18-30-18-4.jpg)](https://gifyu.com/image/EUze)
+
+**
