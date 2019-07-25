@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>Bank/Color/Ayandeh</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="49.982%" cy="49.9778231%" fx="49.982%" fy="49.9778231%" r="50.007%" id="radialGradient-1">
+            <stop stop-color="#F4B31B" offset="0%"></stop>
+            <stop stop-color="#CC932B" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50.021%" y1="99.939%" x2="50.021%" y2="-0.056%" id="linearGradient-2">
+            <stop stop-color="#6E2616" offset="0%"></stop>
+            <stop stop-color="#9B4722" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.061%" y1="0.043%" x2="50.061%" y2="100.033%" id="linearGradient-3">
+            <stop stop-color="#6E2616" offset="0%"></stop>
+            <stop stop-color="#9B4722" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ready-For-Export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-184.000000, -80.000000)" fill-rule="nonzero">
+            <g id="Banks_(Color)" transform="translate(80.000000, 80.000000)">
+                <g id="Bank-/-Ayandeh-/-Color" transform="translate(104.000000, 0.000000)">
+                    <path d="M6.67899314,0 L41.3210177,0 C44.981063,0 48,3.01925688 48,6.6787103 L48,41.32129 C48,44.9807434 44.981063,48 41.3210177,48 L6.67899314,48 C3.01894778,48 0,44.9807434 0,41.32129 L0,6.67963277 C-0.00317862193,4.908868 0.699148645,3.2095651 1.95209991,1.95649187 C3.20505117,0.703418636 4.90570409,-0.00049258001 6.67899314,0" id="Shape" fill="url(#radialGradient-1)"></path>
+                    <path d="M46,22 L46,40.9178221 C46.0029442,42.2653144 45.4743592,43.5585848 44.5309317,44.51211 C43.5875043,45.4656352 42.3068226,46.0009964 40.9716307,46 L7.02744024,46 C5.69256996,46.000747 4.4122678,45.4654044 3.46906778,44.5121089 C2.52586777,43.5588133 1.99730101,42.2659258 2,40.9187577 L2,33.0269758 C3.85412428,12.8105416 22.9654035,33.2795877 31.8438279,33.2795877 C38.9042937,33.2421637 43.1112782,27.7660998 46,22" id="Shape" fill="url(#linearGradient-2)"></path>
+                    <path d="M7.05943033,2 L40.9757689,2 C43.7546578,2 46,4.25374347 46,7.04329658 L46,14.6263494 C44.4317804,35.5851422 25.0870087,14.6616367 16.1445443,14.6616367 C9.12599735,14.6616367 4.92153849,20.2769588 2,26 L2,7.04329658 C2.03612556,4.28903076 4.31574072,2.00092861 7.05943033,2.00092861" id="Shape" fill="url(#linearGradient-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

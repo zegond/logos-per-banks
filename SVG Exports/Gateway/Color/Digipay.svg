@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>Gateway/Color/Digipay</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100.005%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#242B64" offset="0%"></stop>
+            <stop stop-color="#EF4472" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-8.234%" y1="8.4129493%" x2="94.372%" y2="81.6940318%" id="linearGradient-2">
+            <stop stop-color="#903883" offset="0%"></stop>
+            <stop stop-color="#EF5B82" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-7.11227499%" y1="99.558%" x2="107.106717%" y2="0.442%" id="linearGradient-3">
+            <stop stop-color="#26387C" offset="0%"></stop>
+            <stop stop-color="#834F8C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ready-For-Export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-184.000000, -288.000000)" fill-rule="nonzero">
+            <g id="Gateway_(Color)" transform="translate(80.000000, 288.000000)">
+                <g id="Gateway-/-Digipay-/-Color" transform="translate(104.000000, 0.000000)">
+                    <path d="M24,17.7777778 L41.75,17.7777778 L41.75,26.6666667 C41.75,31.5758644 37.7765272,35.5555556 32.875,35.5555556 L24,35.5555556 L24,17.7777778 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                    <path d="M6.25,0 L32.875,0 C37.7765272,0 41.75,3.97969111 41.75,8.88888889 L41.75,17.7777778 L15.125,17.7777778 C10.2234728,17.7777778 6.25,13.7980867 6.25,8.88888889 L6.25,0 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+                    <path d="M6.25,0 L32.875,0 C37.7765272,0 41.75,3.97969111 41.75,8.88888889 L41.75,17.7777778 L15.125,17.7777778 C10.2234728,17.7777778 6.25,13.7980867 6.25,8.88888889 L6.25,0 Z M8.025,1.77777778 L8.025,8.88888889 C8.025,12.8162471 11.2037783,16 15.125,16 L39.975,16 L39.975,8.88888889 C39.975,4.96153067 36.7962217,1.77777778 32.875,1.77777778 L8.025,1.77777778 Z" id="Shape" fill="#E64473"></path>
+                    <path d="M15.125,17.7777778 L24,17.7777778 L24,39.1111111 C24,44.0203089 20.0265272,48 15.125,48 L6.25,48 L6.25,26.6666667 C6.25,21.7574689 10.2234728,17.7777778 15.125,17.7777778 Z" id="Shape" fill="url(#linearGradient-3)"></path>
+                    <path d="M15.125,17.7777778 L24,17.7777778 L24,39.1111111 C24,44.0203089 20.0265272,48 15.125,48 L6.25,48 L6.25,26.6666667 C6.25,21.7574689 10.2234728,17.7777778 15.125,17.7777778 Z M22.225,19.5555556 L15.125,19.5555556 C11.2037783,19.5555556 8.025,22.7393084 8.025,26.6666667 L8.025,46.2222222 L15.125,46.2222222 C19.0462217,46.2222222 22.225,43.0384693 22.225,39.1111111 L22.225,19.5555556 Z" id="Shape" fill="#4F3A7A"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
