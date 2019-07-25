@@ -18,8 +18,11 @@ There are 4 formats in this file, and also a ready-to-use folder of SVGs. Head t
 ## About This project (Some TL;DR)
 - I put a considerable amount of time on creating flawless and updated file for each platform, managing the nodes and layers for good SVG exports.
 - I'm obsessed with being up-to-date, and will review and update my files once in a while. If you see a change, got a feedback, or got a bank or gateway and want me to add your logo to my file, awesome. Contact me :)
+
 - Every logo you see here has been manually traced, nodes reduced and layers managed. I managed to get a few ones using the formal sources like their websites, or bank-related companies, and used them in my files.
+
 - Want to spread the world? wow how nice of you :) Use this hashtag in your tweets and stories: **#logos_project**
+
 - Hate github and want to use another source which is ...more aligned with your sense of beauty maybe? Oh well, I'll submit and update my files in the following websites as well: [Uplabs](https://uplabs.com/zegond), [Dribbble](https://dribbble.com/zegond), [Sketchappresources](https://sketchappsources.com/contributor/zegond). No need to tell you that Like and comment makes me so happy :)
 
 ## Instructions
