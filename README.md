@@ -94,6 +94,7 @@ Save the symbol as "Dynamic Graphic Object" to be able to resize it.
 [![2019-07-25_22-43-59.jpg](https://s3.gifyu.com/images/2019-07-25_22-43-59.jpg)](https://gifyu.com/image/Et3T)
 
 **Loading Symbols Universally throughout Ai**
+
 There is a symbols file in Illustrator folder which you can use to manage and reuse instances quickly throughout documents.
 To load symbols in Ai, you can either:
 - load the symbol by selecting "Other Library" and load the symbols from the LogoS folder.
