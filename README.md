@@ -60,6 +60,7 @@ Whenever a version is uploaded to sketch cloud, you will be notified to update y
 
 ## Adobe XD
 **Using Components from a shared cloud**
+
 You can use this link to get access to the cloud file using your XD account.
 Open a new XD file, and 
 
@@ -69,6 +70,7 @@ Open a new XD file, and
 You can open The .fig file using figma.com on web, or install its application on desktop.
 
 **Duplicating the file to your drafts**
+
 You can view the file using [this URL](https://www.figma.com/file/siz6HblbLsZTnBbF98lczO/LogoS-Iran-Banks?node-id=0%3A1).
 Once opened, simply open the file settings near the file name and click duplicate. this will duplicate the file on your drafts for your own personal use.
 
