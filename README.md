@@ -12,7 +12,7 @@ There are 4 formats in this file, and also a ready-to-use folder of SVGs. Head t
 - [Sketch](https://github.com/zegond/logos-iran-banks/blob/master/README.md#sketch)
 - Adobe XD
 - [Figma](https://github.com/zegond/logos-iran-banks/blob/master/README.md#figma)
-- [Adobe Illustrator] (https://github.com/zegond/logos-iran-banks/blob/master/README.md#adobe-illustrator)
+- [Adobe Illustrator](https://github.com/zegond/logos-iran-banks/blob/master/README.md#adobe-illustrator)
 - [SVG Assets](https://github.com/zegond/logos-iran-banks/blob/master/README.md#svg-assets)
 
 ## About This project (Some TL;DR)
@@ -69,6 +69,7 @@ You can open The .fig file using figma.com on web, or install its application on
 **Duplicating the file to your drafts**
 You can view the file using [this URL](https://www.figma.com/file/siz6HblbLsZTnBbF98lczO/LogoS-Iran-Banks?node-id=0%3A1).
 Once opened, simply open the file settings near the file name and click duplicate. this will duplicate the file on your drafts for your own personal use.
+
 [![2019-07-25_14-46-50.jpg](https://s3.gifyu.com/images/2019-07-25_14-46-50.jpg)](https://gifyu.com/image/Ere6)
 
 **Adding a file as Library**
@@ -80,27 +81,33 @@ Figma uses team projects in order to manage libraries, so you can add the file a
 ### Adobe Illustrator
 **Making Symbols**
 You can make resusable symbols by selecting the group, and make a new symbol from it using either symbols Window, or Properties tab.
+
 [![2019-07-25_22-43-29.jpg](https://s3.gifyu.com/images/2019-07-25_22-43-29.jpg)](https://gifyu.com/image/Et3K)
 [![2019-07-25_22-13-28.jpg](https://s3.gifyu.com/images/2019-07-25_22-13-28.jpg)](https://gifyu.com/image/Et3N)
 
 Save the symbol as "Dynamic Graphic Object" to be able to resize it.
+
 [![2019-07-25_22-43-59.jpg](https://s3.gifyu.com/images/2019-07-25_22-43-59.jpg)](https://gifyu.com/image/Et3T)
 
 **Loading Symbols Universally throughout Ai**
 There is a symbols file in Illustrator folder which you can use to manage and reuse instances quickly throughout documents.
 To load symbols in Ai, you can either:
-- load the symbol by selecting "Other Library" and load the symbols from the LogoS folder
+- load the symbol by selecting "Other Library" and load the symbols from the LogoS folder.
+
 [![2019-07-26_01-00-54-1.jpg](https://s3.gifyu.com/images/2019-07-26_01-00-54-1.jpg)](https://gifyu.com/image/Et9P)
 
 - Or, drop the symbols file to your symbols folder to see it permanently in your symbols list
 Mac: Applications/Adobe Illustrator/Presets/en_US/Symbols
 Windows: C:\Users\Yourusername\AppData\Roaming\Adobe\Adobe Illustrator\Presets\Symbols
+
 [![2019-07-26_01-04-41.jpg](https://s3.gifyu.com/images/2019-07-26_01-04-41.jpg)](https://gifyu.com/image/Et9e)
 
 ### SVG Assets
 The SVG files have been created with viewbox enabled in them in 48px boundary. This makes all of the containers stay in the middle of a square box which makes managing their size and position easier.
 below you can see the comparison between an SVG image without (Left) and with viewbox (right)
+
 [![Untitled-1cfd05ad380f70e51.jpg](https://s3.gifyu.com/images/Untitled-1cfd05ad380f70e51.jpg)](https://gifyu.com/image/EtpV)
 
 SVG groups have also been carefully considered to avoid unwanted clutter.
+
 [![2019-07-25_16-59-08.jpg](https://s3.gifyu.com/images/2019-07-25_16-59-08.jpg)](https://gifyu.com/image/EtpB)
