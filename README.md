@@ -11,7 +11,7 @@ This project is available under CC0 1.0 Universal. In short:
 There are 4 formats in this file, and also a ready-to-use folder of SVGs. Head to each section for instructions.
 
 - [Sketch](https://github.com/zegond/logos-per-banks/blob/master/README.md#sketch)
-- Adobe XD
+- [Adobe XD](https://github.com/zegond/logos-per-banks/blob/master/README.md#adobe-xd)
 - [Figma](https://github.com/zegond/logos-per-banks/blob/master/README.md#figma)
 - [Adobe Illustrator](https://github.com/zegond/logos-per-banks/blob/master/README.md#adobe-illustrator)
 - [SVG Assets](https://github.com/zegond/logos-per-banks/blob/master/README.md#svg-assets)
@@ -62,10 +62,15 @@ Whenever a version is uploaded to sketch cloud, you will be notified to update y
 [![2019-07-19_15-20-46.gif](https://s3.gifyu.com/images/2019-07-19_15-20-46.gif)]
 
 ## Adobe XD
-**Using Components from a shared cloud**
+**Using Components**
 
-You can use this link to get access to the cloud file using your XD account.
-Open a new XD file, and 
+To use components, simply head to assets tab on bottom left corner of the screen. simply drag the components to the screen.
+
+**Loading the components in other files**
+
+To load components in another file, first save your LogoS document to the cloud, then use the assets tab to load cloud Assets.
+
+[![2019-07-26_19-09-10-1.jpg](https://s3.gifyu.com/images/2019-07-26_19-09-10-1.jpg)]
 
 ### Figma
 **Opening The File**
