@@ -1,62 +1,68 @@
-# LogoS: Banks and Payment Gateways of Iran 🇮🇷
-LogoS is a design project about well, logos. In clean vector and organized as libraries to use. This one includes logos of Banks and Payment Gateways of Iran.(نسخه فارسی را اینجا بخوانید)
+# لوگوهای بانک و درگاه‌های پرداخت ایرانی
+پروژه لوگو یک پروژه درباره لوگوهای وکتور باکیفیت و مرتب شده به صورت لایبرری است. این ریپوزیتوری حاوی لوگوی بانک‌ها و درگاه‌های پرداخت ایرانی می‌باشد. (English version here)
 
-## License
-This project is available under CC0 1.0 Universal. In short:
-- It's **FREE** for personal and commercial use;
-- Reselling the file, or even the individual items inside the file is *not allowed*.
+## لیسانس
+این پروژه تحت لیسانس زیر موجود است
+CC0 1.0 Universal License
+به عبارتی
+- استفاده شخصی و غیرشخصی از آن **رایگان** است
+- هرگونه فروش این فایل و محتوای داخل آن غیرقانونی است
 
-## Formats
-There are 4 formats in this file, and also a ready-to-use folder of SVGs. Head to each section for instructions.
+## فرمت‌ها
+در این فایل ۴ فرمت وجود و همچنین یک فولدر آماده اس‌وی‌جی برای دانلود موجود است. برای توضیحات روی فرمت مورد نظر خودتان بزنید
 
-- [Sketch](https://github.com/zegond/logos-iran-banks/blob/master/README.md#sketch)
+- [Sketch](https://github.com/zegond/logos-per-banks/blob/master/README-fa.md#sketch)
 - Adobe XD
-- [Figma](https://github.com/zegond/logos-iran-banks/blob/master/README.md#figma)
-- [Adobe Illustrator](https://github.com/zegond/logos-iran-banks/blob/master/README.md#adobe-illustrator)
-- [SVG Assets](https://github.com/zegond/logos-iran-banks/blob/master/README.md#svg-assets)
+- [Figma](https://github.com/zegond/logos-per-banks/blob/master/README-fa.md#figma)
+- [Adobe Illustrator](https://github.com/zegond/logos-per-banks/blob/master/README-fa.md#adobe-illustrator)
+- [SVG Assets](https://github.com/zegond/logos-per-banks/blob/master/README-fa.md#svg-assets)
 
-## About This project (Some TL;DR)
-- I'm obsessed with being up-to-date, and will review and update my files once in a while. If you see a change, got a feedback, or got a bank or gateway and want me to add your logo to my file, awesome. Contact me :)
+## درباره این پروژه
+- به به روز بودن اعتیاد دارم. بنابراین هر چند وقت یکبار فایل‌ها را به روز خواهم کرد. اگر در لوگوها تغییری مشاهده کردید، فیدبکی دارید و یا درگاه پرداختی دارید که میخواهید لوگوی آن را در این فایل قرار دهید، با من ارتباط بگیرید
 
-- I put a considerable amount of time on creating flawless and updated file for each platform, managing the nodes and layers for good SVG exports. Every logo you see here has been manually traced, nodes reduced and layers managed. I managed to get a few ones using the formal sources like their websites, or bank-related companies, and used the ones with good quality in my files.
+- زمان زیادی صرف تولید و تریس کردم که نتیجه نهایی بی نقصی داشته باشم. اکثر لوگوهای این فایل دستی توسط خودم تریس شده و نودها و لایه‌ها را نیز تا حد زیادی مدیریت کرده‌ام. در چند مورد موفق شدم لوگوهای اصلی را از طریق وبسایت بانک‌ها و یا دوستانم در شرکت‌های وابسته به بانک دریافت کنم و آن‌هایی که کیفیت خوبی داشتند را در فایل خودم استفاده کردم
 
-- Want to spread the world? Wow how nice of you ^_^ Use this hashtag in your tweets and stories: **#logos_project**
+- با وجود تلاش من برای ساخت فایل‌های بی نقص، لوگوها قطعا تفاوت کوچکی با نسخه اصلی خواهند داشت. بنابراین برای پروژه‌های رسمی سعی کنید لوگوها را از کارفرما درخواست کنید و یا تایید رسمی آن‌ها را برای استفاده از لوگوهای این فایل دریافت کنید. (عکس و نسخه وکتور را با ایمیل ارسال کنید و بپرسید آیا استفاده از این نسخه لوگو را تایید می‌کنند؟) بدیهی است هیچ مسئولیتی در قبال مسائل قانونی که به دلیل استفاده از لوگوهای این فایل ممکن است برای شما و محل کارتان بوجود بیاید نخواهم داشت
 
-- Hate github and want to use another source which is ...more aligned with your sense of beauty maybe? Oh well, I'll submit and update my files in the following websites as well: [Uplabs](https://uplabs.com/zegond), [Dribbble](https://dribbble.com/zegond), [Sketchappresources](https://sketchappsources.com/contributor/zegond). No need to tell you that Like and comment makes me so happy :)
+- می‌خواهید دیگران هم از این پروژه باخبر شوند؟ چه خوب. ^ـ^ برای اشتراک این پروژه از هشتگ زیر استفاده کنید
+**#logos_project**
 
-## Instructions
+- اگر فاز گیت‌هاب ندارید و ترجیح می‌دهید این پروژه را از وبسایت‌های خوشگل‌تری دریافت کنید، می‌توانید به [آپ‌لبز](https://uplabs.com/zegond)، [دریبل](https://dribbble.com/zegond) و [اسکچ‌ریسورسز](https://sketchappsources.com/contributor/zegond) رجوع کنید و با لایک و کامنت مستفیضم کنید
+
+
+## روش استفاده
 ### Sketch
-**Adding Library Using Sketch Cloud**
+**اضافه کردن لایبرری به اسکچ با استفاده از اسکچ کلاود**
 
-You can use [this URL](https://sketch.cloud/s/jPwL7) to add this document as a library in your sketchapp and get updates directly through cloud. Life made easy :)
+با استفاده از [این لینک](https://sketch.cloud/s/jPwL7) می‌توانید نسخه اسکچ را به صورت لایبرری به اسکچ اضافه کنید و نسخه جدید را به طور مستقیم درون خود اسکچ دریافت کنید. به همین راحتی
 
 [![2019-07-19_15-01-17.gif](https://s3.gifyu.com/images/2019-07-19_15-01-17.gif)]
 
-**Using Symbols**
+**استفاده از سیمبل‌ها**
 
-After adding library, you can easily select and use symbols
+بعد از اضافه کردن لایبرری به اسکچ، به راحتی می‌توانید سیمبل‌ها را انتخاب و استفاده کنید
 
 [![2019-07-19_15-08-18.gif](https://s3.gifyu.com/images/2019-07-19_15-08-18.gif)]
 
-**Resizing Issues in Sketch**
+**مشکلات تغییر سایز در اسکچ**
 
-Sketch tends to misplace the layers inside a shape when scaling. (Pay attention to petals below)
+اسکچ لایه‌های داخل شکل‌ها و گروه‌ها را هنگام تغییر سایز جاب‌جا می‌کند. (به گلبرگ‌های لوگو توجه کنید)
 
 ![2019-07-25_17-18-29.gif](https://s3.gifyu.com/images/2019-07-25_17-18-29.gif)
 
-To avoid this, insert symbol, scale to desired size, and detach from symbol after resize.
+برای رفع این مشکل، ابتدا سیمبل را قرار داده و تغییر سایز دهید، سپس دیتچ کنید
 
 ![2019-07-25_17-19-09.gif](https://s3.gifyu.com/images/2019-07-25_17-19-09.gif)
 
-**Changing Style of Monocolor Logos**
+**تغییر استایل لوگوهای تک رنگ**
 
-Monocolors have styles set in their shape, which means you can easily switch the styles with the ones you have in your document or your other libraries.
+لوگوهای تک‌رنگ در شکلشان استایل ست شده است. به همین دلیل به راحتی می‌توانید رنگشان را استایل‌های داکیومنت و یا لایبرری‌های دیگر جا‌ب‌جا کنید
 
 [![2019-07-19_15-07-04.gif](https://s3.gifyu.com/images/2019-07-19_15-07-04.gif)]
 
-**Updating Library Using Sketch Cloud**
+**به روزرسانی لایبرری از طریق اسکچ کلاود**
 
-Whenever a version is uploaded to sketch cloud, you will be notified to update your library. After updating, you can update the symbols in your documents.
+هر نسخه‌ای که به روزرسانی می‌شود، درون اسکچ خود اعلان آن را دریافت خواهید کرد. پس از دانلود آخرین نسخه نیز می‌توانید سیمبل‌های درون فایل‌های خودتان را با نسخه جدید به روز کنید
 
 [![2019-07-19_15-20-46.gif](https://s3.gifyu.com/images/2019-07-19_15-20-46.gif)]
 
@@ -67,56 +73,57 @@ You can use this link to get access to the cloud file using your XD account.
 Open a new XD file, and 
 
 ### Figma
-**Opening The File**
+**باز کردن فایل**
 
-You can open The .fig file using figma.com on web, or install its application on desktop.
+فایل فیگما را می‌توانید با استفاده از وبسایت و یا اپلیکیشن دسکتاپ فیگما باز کنید
 
-**Duplicating the file to your drafts**
+**کپی کردن مستقیم فایل در درفت‌های فیگما**
 
-You can view the file using [this URL](https://www.figma.com/file/siz6HblbLsZTnBbF98lczO/LogoS-Iran-Banks?node-id=0%3A1).
-Once opened, simply open the file settings near the file name and click duplicate. this will duplicate the file on your drafts for your own personal use.
+با استفاده از [ین لینک](https://www.figma.com/file/siz6HblbLsZTnBbF98lczO/LogoS-Iran-Banks?node-id=0%3A1) می‌توانید آخرین نسخه فایل فیگما را مشاهده کنید. پس از باز کردن، روی فلش کنار نام فایل زده و "داپلیکیت" را انتخاب کنید. این کار یک کپی از فایل را به درفت‌های شما اضافه خواهد کرد تا بتوانید بدون محدودیت از آن استفاده کنید
 
 [![2019-07-25_14-46-50.jpg](https://s3.gifyu.com/images/2019-07-25_14-46-50.jpg)]
 
-**Adding a file as Library**
+**اضافه کردن فایل به عنوان لایبرری**
 
-Figma uses team projects in order to manage libraries, so you can add the file as a library using the menu on the top left under "Libraries". Having a public link is a paid feature, so I'm afraid, you have to update your files manualy.
+فیگما در بخش پروژه‌های تیم به شما اجازه می‌دهد که فایل خودتان را به صورت لایبرری اضافه کرده و  در فایل‌های دیگر از آن استفاده کنید. فعالسازی لایبرری عمومی در فیگما یک فیچر پولی است و متاسفانه امکان تامین این لینک را برای شما ندارم و باید به صورت دستی به روشی که در بالا گفتم فایل‌های خودتان را به روز کنید
 
 [![2019-07-19_18-30-18-4.jpg](https://s3.gifyu.com/images/2019-07-19_18-30-18-4.jpg)]
 
 ### Adobe Illustrator
-**Making Symbols**
-You can make resusable symbols by selecting the group, and make a new symbol from it using either symbols Window, or Properties tab.
+**ساخت سیمبل**
+شما می‌توانید در ایلوستریتور سیمبل بسازید و چندین بار از آن استفاده کنید. برای این کار گروه را انتخاب کنید، و از طریق پنجره سیمبل و یا تب پروپرتیز از آن سیمبل جدید بسازید
 
 [![2019-07-25_22-43-29.jpg](https://s3.gifyu.com/images/2019-07-25_22-43-29.jpg)]
 [![2019-07-25_22-13-28.jpg](https://s3.gifyu.com/images/2019-07-25_22-13-28.jpg)]
 
-Save the symbol as "Dynamic Graphic Object" to be able to resize it.
+تنظیمات سیمبل خود را روی گرافیک داینامیک قرار دهید
 
 [![2019-07-25_22-43-59.jpg](https://s3.gifyu.com/images/2019-07-25_22-43-59.jpg)]
 
-**Loading Symbols Universally throughout Ai**
+**لود کردن سیمبل در ایلوستریتور**
 
-There is a symbols file in Illustrator folder which you can use to manage and reuse instances quickly throughout documents.
-To load symbols in Ai, you can either:
-- load the symbol by selecting "Other Library" and select the symbol file.
+یک فایل سیمبل در فولدر ایلوستریتور موجود است
+برای لود کردن سیمبل‌های این فایل درون ایلوستریتور به یکی از دو روش زیر عمل کنید
+- با انتخاب "لایبرری دیگر" به طور مستقیم فایل سیمبل را انتخاب و لود کنید
 
 [![2019-07-26_01-00-54-1.jpg](https://s3.gifyu.com/images/2019-07-26_01-00-54-1.jpg)]
 
-- Or, drop the symbols file to your Adobe presets folder to Autoload it in your symbols list
+- و یا، فایل سیمبل را درون فولدر پریست‌های ایلوستریتور کپی کنید تا با هر باز باز شدن ایلوستریتور برای شما لود شود
+مسیر فولدر پریست در سیستم عامل‌های مختلف
 
-Mac: Applications/Adobe Illustrator/Presets/en_US/Symbols
+**Mac:** Applications/Adobe Illustrator/Presets/en_US/Symbols
 
-Windows: C:\Users\Yourusername\AppData\Roaming\Adobe\Adobe Illustrator\Presets\Symbols
+**Windows:** C:\Users\Yourusername\AppData\Roaming\Adobe\Adobe Illustrator\Presets\Symbols
 
-[![2019-07-26_01-04-41.jpg](https://s3.gifyu.com/images/2019-07-26_01-04-41.jpg)](https://gifyu.com/image/Et9e)
+[![2019-07-26_01-04-41.jpg](https://s3.gifyu.com/images/2019-07-26_01-04-41.jpg)]
 
 ### SVG Assets
-The SVG files have been created with viewbox enabled in them in 48px boundary. This makes all of the containers stay in the middle of a square box which makes managing their size and position easier.
-below you can see the comparison between an SVG image without (Left) and with viewbox (right)
+فایل‌های اس وی جی موجود در ویوباکسی با اندازه ۴۸ پیکسل محاط شده‌اند. این کار مدیریت سایز و مکان آن‌ها را راحت‌تر می‌کند. در عکس زیر تفاوت اس‌وی‌جی بدون ویوباکس (چپ) و با ویوباکس (راست) را مشاهده می‌کنید
 
 [![Untitled-1cfd05ad380f70e51.jpg](https://s3.gifyu.com/images/Untitled-1cfd05ad380f70e51.jpg)]
 
-SVG groups have also been carefully considered to avoid unwanted clutter.
+گروه‌ها و لایه‌های درون اس‌وی‌جی نیز به دقت نام‌گذاری و مرتب شده‌اند
 
 [![2019-07-25_16-59-08.jpg](https://s3.gifyu.com/images/2019-07-25_16-59-08.jpg)]
+
+ا دقت و توجه شما سپاسگزارم. امیدوارم این فایل مورد استفاده شما قرار بگیرد :)
