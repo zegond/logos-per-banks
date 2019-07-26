@@ -92,6 +92,7 @@ Figma uses team projects to manage libraries, so you can add the file as a libra
 
 ### Adobe Illustrator
 **Making Symbols**
+
 You can make resusable symbols by selecting the group, and make a new symbol from it using either symbols Window, or Properties tab.
 
 ![2019-07-25_22-43-29.jpg](https://s3.gifyu.com/images/2019-07-25_22-43-29.jpg)
