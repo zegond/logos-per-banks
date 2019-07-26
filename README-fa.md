@@ -70,10 +70,18 @@ CC0 1.0 Universal License
 [![2019-07-19_15-20-46.gif](https://s3.gifyu.com/images/2019-07-19_15-20-46.gif)]
 
 ## Adobe XD
-**Using Components from a shared cloud**
 
-You can use this link to get access to the cloud file using your XD account.
-Open a new XD file, and 
+**استفاده از کامپوننت‌ها**
+
+برای استفاده از کامپوننت‌ها، پایین سمت چپ صفحه روی تب است بزنید و کامپوننت مورد نظر خودتان را به داخل صفحه بکشید
+
+[![2019-07-26_19-09-10-1.jpg](https://s3.gifyu.com/images/2019-07-26_19-09-10-1.jpg)]
+
+**لود کردن کامپوننت‌ها در فایل دیگر**
+
+قایل لوگوها را به صورت داکیومنت کلاود در اکانت خودتان ذخیره کنید. سپس در فایل جدید، با استفاده از تب است داکیومنت کلاود را لود کرده و استفاده کنید
+
+[![2019-07-26_19-11-52.jpg](https://s3.gifyu.com/images/2019-07-26_19-11-52.jpg)]
 
 ### Figma
 **باز کردن فایل**
