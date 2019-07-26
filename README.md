@@ -1,6 +1,6 @@
 # LogoS: Banks and Payment Gateways of Iran 🇮🇷
 LogoS is a design project about logos, In clean vector and organized as libraries to use by designers.
-This one includes logos of Banks and Payment Gateways of Iran.(نسخه فارسی را اینجا بخوانید)
+This one includes logos of Banks and Payment Gateways of Iran.(نسخه فارسی را [اینجا](https://github.com/zegond/logos-per-banks/blob/master/README.md) بخوانید)
 
 ## License
 This project is available under CC0 1.0 Universal. In short:
