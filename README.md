@@ -2,6 +2,7 @@
 
 ![LogoS-cover-Iran-Banks-Github.jpg](https://s3.gifyu.com/images/LogoS-cover-Iran-Banks-Github.jpg)
 
+V 1.01 (Read Changelog [here](https://github.com/zegond/logos-per-banks/blob/master/CHANGELOG.md))
 LogoS is a design project about logos, In clean vector and organized as libraries to use by designers.
 This one includes logos of Banks and Payment Gateways of Iran.(نسخه فارسی را [اینجا](https://github.com/zegond/logos-per-banks/blob/master/README-fa.md) بخوانید)
 
@@ -32,7 +33,7 @@ There are 4 formats in this file, and also a ready-to-use folder of SVGs. Head t
 ### Sketch
 **Adding Library Using Sketch Cloud**
 
-You can use [this URL](https://sketch.cloud/s/jPwL7) to add this document as a library in your sketchapp and get updates directly through cloud. Life made easy :)
+You can use [this URL](https://sketch.cloud/s/pxQQQ) to add this document as a library in your sketchapp and get updates directly through cloud. Life made easy :)
 
 ![2019-07-19_15-01-17.gif](https://s3.gifyu.com/images/2019-07-19_15-01-17.gif)
 
@@ -82,7 +83,7 @@ You can open The .fig file using figma.com on web, or install its application on
 
 **Duplicating the file to your drafts**
 
-You can view the file using [this URL](https://www.figma.com/file/siz6HblbLsZTnBbF98lczO/LogoS-Iran-Banks?node-id=0%3A1).
+You can view the file using [this URL](https://www.figma.com/file/siz6HblbLsZTnBbF98lczO/).
 Once opened, simply open the file settings near the file name and click duplicate. This will duplicate the file on your drafts for your personal use.
 
 ![2019-07-25_14-46-50.jpg](https://s3.gifyu.com/images/2019-07-25_14-46-50.jpg)
