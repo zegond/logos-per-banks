@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Gateway/Color/Payping</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Ready-For-Export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-600.000000, -288.000000)">
+            <g id="Gateway_(Color)" transform="translate(80.000000, 288.000000)">
+                <g id="Gateway-/-Payping-/-Color" transform="translate(520.000000, 0.000000)">
+                    <polygon id="Shape" fill="#0080FF" points="34.2961 48 47.9743 48 47.9743 34.3218 34.2961 34.3218"></polygon>
+                    <path d="M24.3701,0 L0,0 L0,48 L10.211,48 L10.211,33.6281 L24.3701,33.6281 C33.5941,33.6281 41.1842,26.0379 41.1842,16.814 C41.1842,7.5901 33.5941,0 24.3701,0 Z M24.3701,24.0383 C24.1385,24.0654 23.9056,24.0796 23.6724,24.0808 L10.211,24.0808 L10.211,9.5472 L23.6724,9.5472 C23.9048,9.5343 24.1377,9.5343 24.3701,9.5472 C28.1097,9.8617 31.0202,13.0272 31.0202,16.78 C31.0202,20.5328 28.1097,23.6983 24.3701,24.0128 L24.3701,24.0383 Z" id="Shape" fill="#172B4D"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
