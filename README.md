@@ -1,6 +1,6 @@
 # LogoS: Banks and Payment Gateways of Iran
 
-[![LogoS-cover-Iran-Banks-Githubfe7fd81f94a329ef.jpg](https://s3.gifyu.com/images/LogoS-cover-Iran-Banks-Githubfe7fd81f94a329ef.jpg)]
+![LogoS-cover-Iran-Banks-Githubfe7fd81f94a329ef.jpg](https://s3.gifyu.com/images/LogoS-cover-Iran-Banks-Githubfe7fd81f94a329ef.jpg)
 
 V 1.01 (Read Changelog [here](https://github.com/zegond/logos-per-banks/blob/master/CHANGELOG.md))
 LogoS is a design project about logos, In clean vector and organized as libraries to use by designers.
